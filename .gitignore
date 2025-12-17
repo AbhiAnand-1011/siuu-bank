@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.out
+*.bin
+
+# Go build cache
+/bin
+/pkg
+
+# Environment files
+.env
+
+# Docker
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
