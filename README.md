@@ -1,4 +1,4 @@
-# SIUU Bank 🏦
+# SIUU Bank
 
 SIUU Bank is a backend banking service built in Go, focused on correctness, security, and transactional integrity.  
 The project exposes a RESTful API for account management and demonstrates real-world backend concepts such as authentication, database transactions, and containerized development.
